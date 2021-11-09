@@ -9,7 +9,7 @@ const App = () => {
         <h2>MERN Stack</h2>
         <hr />
         <p className="lead">
-          Learn MERN stack web development by building production ready login register system with account activation, forgot password, reset password, login with facebook, login with google as well as ACL by implementing private and protected routes for authenticated user and users with the role of admin.
+          MERN stack web development by building production ready login register system with account activation, forgot password, reset password, login with facebook, login with google as well as ACL by implementing private and protected routes for authenticated user and users with the role of admin done by Abbas Ghaith.
         </p>
       </div>
     </Layout>
