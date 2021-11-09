@@ -1,4 +1,4 @@
-MERN stack web application by building production ready login register system with account activation, forgot password, reset password, login with Facebook and Google as well as ACL by implementing private and protected routes for authenticated user and users with the role of admin
+MERN stack web application by building production ready login register system with account activation, forgot password, reset password, login with Facebook and Google as well as ACL by implementing private and protected routes for authenticated user and users with the role of admin.
 
 https://limitless-shore-73315.herokuapp.com/
 
